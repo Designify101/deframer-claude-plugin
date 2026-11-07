@@ -1,0 +1,14 @@
+{
+  "name": "deframer-claude-plugin",
+  "private": true,
+  "version": "1.1.0",
+  "type": "module",
+  "description": "Deframer's Claude Code plugin: skill, commands and a dependency-free CLI for the Deframer client API.",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "test": "node --test test/*.test.mjs",
+    "validate": "claude plugin validate . --strict"
+  }
+}

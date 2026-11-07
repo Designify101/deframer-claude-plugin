@@ -1,0 +1,26 @@
+{
+  "name": "deframer",
+  "owner": {
+    "name": "Deframer",
+    "url": "https://deframer.co"
+  },
+  "description": "Deframer's plugin: convert a published Framer site you own into a TypeScript code project.",
+  "plugins": [
+    {
+      "name": "deframer",
+      "source": "./",
+      "description": "Convert a published Framer site you own into Next.js, TanStack Start, Astro, React Router, Vite, Nuxt or static HTML, then bring the project into your repository.",
+      "category": "development",
+      "tags": [
+        "nextjs",
+        "astro",
+        "tanstack-start",
+        "react-router",
+        "nuxt",
+        "typescript",
+        "migration"
+      ],
+      "version": "1.1.0"
+    }
+  ]
+}
