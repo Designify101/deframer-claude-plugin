@@ -1,6 +1,6 @@
 ---
 description: Convert a published Framer site into a TypeScript project with Deframer
-argument-hint: <site-url> [next|start|astro|react-router|vite|nuxt|html] [cdn|project]
+argument-hint: "<site-url> [next|start|astro|react-router|vite|nuxt|html] [cdn|project]"
 ---
 
 Convert the published Framer site $0 with Deframer, following the deframer skill.

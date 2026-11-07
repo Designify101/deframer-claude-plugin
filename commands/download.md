@@ -1,6 +1,6 @@
 ---
 description: Bring a Deframer project you downloaded from deframer.co into this folder
-argument-hint: [zip-path] [folder]
+argument-hint: "[zip-path] [folder]"
 ---
 
 Bring a project the user unlocked and downloaded on deframer.co into the working directory.
