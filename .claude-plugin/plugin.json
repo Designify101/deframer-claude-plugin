@@ -1,8 +1,8 @@
 {
   "name": "deframer",
   "displayName": "Deframer",
-  "version": "1.1.0",
-  "description": "Turn a published Framer site you own into a TypeScript project (Next.js, TanStack Start, Astro, React Router, Vite or Nuxt) or static HTML with Deframer, and bring it into your repository.",
+  "version": "2.0.0",
+  "description": "Turn a published Framer site you own into a TypeScript project (Next.js, TanStack Start, Astro, React Router, Vite or Nuxt) or static HTML with Deframer, then bring it into your repository.",
   "author": {
     "name": "Deframer",
     "url": "https://deframer.co"
@@ -22,9 +22,5 @@
     "migration"
   ],
   "icon": "./assets/icon.png",
-  "documentationUrl": "https://deframer.co/docs",
-  "supportUrl": "https://deframer.co/contact",
-  "privacyPolicyUrl": "https://deframer.co/privacy",
-  "termsOfServiceUrl": "https://deframer.co/terms",
   "repository": "https://github.com/Designify101/deframer-claude-plugin"
 }
