@@ -1,7 +1,7 @@
 {
   "name": "deframer",
   "displayName": "Deframer",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "Turn a published Framer site you own into a TypeScript project (Next.js, TanStack Start, Astro, React Router, Vite or Nuxt) or static HTML with Deframer, then bring it into your repository.",
   "author": {
     "name": "Deframer",
